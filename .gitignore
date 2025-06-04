@@ -1,0 +1,8 @@
+**/*
+!.gitignore
+!*.md
+
+# Nushell
+!.poshthemes/
+!.poshthemes/**/*
+!.oh-my-posh.nu
