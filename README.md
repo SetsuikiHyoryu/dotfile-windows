@@ -9,3 +9,18 @@
 
 Nushell 中使用 Oh My Posh 的文档见：  
 <https://www.nushell.sh/book/3rdpartyprompts.html#oh-my-posh>
+
+## 粉红色
+
+FBAED2
+FFA6C9
+F985BB
+
+windows:
+
+深：F76CAD
+淺：FA85BA
+
+## 终端字体行高
+
+23PX / 17 \* 1.35
