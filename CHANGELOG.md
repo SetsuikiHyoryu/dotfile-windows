@@ -2,6 +2,10 @@
 
 ## [Unreleased]
 
+### Changed
+
+- 更新 README 中 Nushell 怎么使用 Oh My Posh 的描述。
+
 ### Removed
 
 - 删除 `~/oh-my-posh.nu` 因为 Oh My Posh v26.0.0 中更改了 `init` 生成的配置文件的位置。
