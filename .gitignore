@@ -1,4 +1,6 @@
+# 当需要取反以使 Git 进行管理时，需要把每级目录的取反都写出来。
 **/*
+
 !.gitignore
 !*.md
 
@@ -6,3 +8,9 @@
 !.poshthemes/
 !.poshthemes/**/*
 !.oh-my-posh.nu
+
+# GlazeWM
+!.glzr/
+!.glzr/**/
+!.glzr/glazewm/config.yaml
+!.glzr/zebar/settings.json

@@ -2,6 +2,10 @@
 
 ## [Unreleased]
 
+### Added
+
+- 新增 GlazeWM 的配置。
+
 ### Changed
 
 - 更新 README 中 Nushell 怎么使用 Oh My Posh 的描述。
