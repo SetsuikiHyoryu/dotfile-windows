@@ -19,6 +19,14 @@
    - oh-my-posh 在 [v26.0.0](https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v26.0.0) 之后，  
      `oh-my-posh init nu` 就不在 `~` 中创建配置文件而是在 `$nu.data-dir` 的 `vendor` 目录中创建了。
 
+## GlazeWM
+
+开机自启动：
+
+1. WIN + R 后输入 `shell:startup` 打开启动文件夹。
+2. `which glazme` 找到程序路径。
+3. 创建 `glzme.exe` 的快捷方式，并放入 startup 目录。
+
 ## 粉红色
 
 FBAED2
@@ -33,3 +41,8 @@ windows:
 ## 终端字体行高
 
 23PX / 17 \* 1.35
+
+## 实用命令
+
+- tasklist: 打印 Process (task) 。
+- findstr: 找字符串。
